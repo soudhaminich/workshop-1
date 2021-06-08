@@ -38,13 +38,14 @@ Welcome to my git
 3. item 3
 
 
-![BTS](https://media.gq-magazine.co.uk/photos/5e442958995fbc00086126ad/master/pass/20191219-BTS-04.jpg)
+![BTS](https://www.somagnews.com/wp-content/uploads/2020/06/13-19.jpg)
 
 
 
 NAME | NUMBER
 -----|-------
 Soudhamini|7661867914
+Mini|9959355559
 
 
 ```python
